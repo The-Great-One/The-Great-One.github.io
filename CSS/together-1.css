@@ -214,6 +214,7 @@ body, html {
 }
 h2{
     color: white;
+    font-size:2vw;
 }
 style{
     background-repeat: no-repeat;
@@ -234,10 +235,15 @@ h1{
     margin: auto;
 }
 .data h2:last-of-type{
-    margin-left: 70%;
+    margin-left: 67%;
+    font-size:2vw;
 }
 .data h2:first-child{
     margin-left: 1%;
+    font-size:2vw;
+}
+.data p{
+    font-size:1vw;
 }
 * {
   box-sizing: border-box;
