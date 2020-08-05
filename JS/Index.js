@@ -3,6 +3,8 @@
 var textarea = $('.term');
 var speed = 150; //Writing speed in milliseconds
 var text = 'sh Load.sh && apt-get update';
+$(".content").hide();
+$(".text").hide();
 
 var i = 0;
 
